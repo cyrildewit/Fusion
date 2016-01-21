@@ -7,7 +7,7 @@
     <img src="https://david-dm.org/cyrildewit/Fusion/dev-status.svg" alt="dev deps status"/>
 </a>
 
-Fusion is my current boilerplate for building modern websites. It has a Gulp build system, and contains a lot of other useful features.
+Fusion is my current Gulp build system for building modern websites. It has got so many features.
 
 # Features
 - [ ] A Gulp build system
