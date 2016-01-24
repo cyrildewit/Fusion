@@ -1,4 +1,4 @@
-# Fusion 0.0.1
+# Fusion v1.0
 
 <a href="https://david-dm.org/cyrildewit/Fusion">
     <img src="https://david-dm.org/cyrildewit/Fusion/status.svg" alt="deps status"/>
