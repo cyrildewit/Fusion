@@ -1,17 +1,48 @@
-# Fusion-CSS
+# [Fusion](http://www.cyrildewit.nl/fusion)
 
-Fusion-CSS: A Flexible, Responsive  CSS framework for Mobile-Friendly Developement - Build with Sass.
+Fusion is a Flexible, Responsive  CSS framework for Mobile-Friendly Developement - Build with Sass.
+Fusion is a flexible, responsive and powerful front-end framework for Mobile-Friendly and easier developement, created by Cyril de Wit. The CSS code is builded with SCSS, a useful preprocessor for organizing CSS and doing things much easier.
+
+To get started, check out <http://www.cyrildewit.nl/fusion>!
+
+
+## Table of contents
+
+* [Quick start](#quick-start)
+* [Bugs and feature requests](#bugs-and-feature-requests)
+* [Documentation](#documentation)
+* [Contributing](#contributing)
+* [Community](#community)
+* [Versioning](#versioning)
+* [Creators](#creators)
+* [Copyright and license](#copyright-and-license)
+
+
+## Quik start
+
+Fusion is still in developement.
+
+Read the [Getting started page](http://getbootstrap.com/getting-started/) for information, examples, and more.
+
+
+### What's included
+
+Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
+
+```
+fusion/
+├── still-in-developement/
+│   ├── still-in-developement.css
+└── still-in-developement/
+    ├── still-in-developement.css
+    └── still-in-developement.css
+```
+
+
+
+// The following lines are just some old information. Everthing is STILL in DEVELOPEMENT!!!
 
 Current version: 1.0-Alpha
-
-# Features
-
-* CSS Reset.
-* Print ready!
-* Components normal, like typography, buttons, forms and tables.
-* Utilities
-* Components advacned.
-
 
 ## Choose your own features
 
