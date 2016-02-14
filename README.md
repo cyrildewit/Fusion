@@ -4,36 +4,36 @@ Fusion is a flexible, responsive and powerful front-end framework for Mobile-Fri
 
 To get started, check out <http://www.cyrildewit.nl/fusion>!
 
-## Documentation and examples
+### Documentation and examples
 
 
 
-## works in every modern browser
+### works in every modern browser
 
 Fusion works in all modern browsers on desktops and mobile devices:
 
 - I'm still building Fusion. I will show you in which browders Fusion works after completed building.
 
-## License
+### License
 
 Fusion is licensed under MIT. Fusion Framework is absolutely free for personal or commercial use.
 
-# Milestone
+### Milestone
 
-### Global
+##### Global
 
 * [X] Reset
 * [ ] Print ready
 * [ ] Utilities
 
-### Elements
+##### Elements
 
 * [ ] Typography
 * [ ] Buttons
 * [ ] Forms
 * [ ] Tables
 
-### Components
+##### Components
 
 * [ ] Divider
 * [ ] Headers
@@ -60,7 +60,7 @@ Fusion is licensed under MIT. Fusion Framework is absolutely free for personal o
 * [ ] Feeds
 * [ ] Statistic
 
-### Collections
+##### Collections
 
 * [ ] Breadcrumbs
 * [ ] Form layouts
@@ -68,7 +68,7 @@ Fusion is licensed under MIT. Fusion Framework is absolutely free for personal o
 * [ ] Menu
 * [ ] Messages
 
-### Modules (JS)
+##### Modules (JS)
 
 * [ ] Accordians
 * [ ] Modals
